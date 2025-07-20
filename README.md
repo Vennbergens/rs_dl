@@ -4,5 +4,7 @@
 
 * Perform any number of simultaneous downloads.
 
-[Handbook.pdf](https://github.com/user-attachments/files/21238547/Handbook.pdf)
-[Lathund.pdf](https://github.com/user-attachments/files/21238548/Lathund.pdf)
+Each zip file contains rs_dl.exe, a dll and documentation in pdf format.
+
+rs_dl 3.3.0:
+[rs_dl.zip](https://github.com/user-attachments/files/21335066/rs_dl.zip)

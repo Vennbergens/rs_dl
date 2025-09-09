@@ -10,6 +10,8 @@ Each zip file contains
 * One dll.
 * Documentation in pdf format.
 
+******************************************************************************************
+
 rs_dl 3.4.0:
 
 * Button "Go!" is now default pushbutton, which means that you can simply press "Enter" to start downloading.

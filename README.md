@@ -11,8 +11,10 @@ Each zip file contains
 * Documentation in pdf format.
 
 rs_dl 3.4.0:
+Button "Go!" is now default pushbutton, which means that you can simply press "Enter" to start downloading.
 [rs_dl.zip](https://github.com/user-attachments/files/22228604/rs_dl.zip)
 
 
 rs_dl 3.3.0:
+Better handling in dialogs "Profile alias" and "Profile select".
 [rs_dl.zip](https://github.com/user-attachments/files/21335066/rs_dl.zip)

@@ -12,6 +12,15 @@ Each zip file contains
 
 ******************************************************************************************
 
+rs_dl 3.5.0 2026-06-10:
+
+* Display changes:
+  *  Tooltips for som econtrols.
+  *  Currently active profile highlighted.
+  *  Butto "Go!" is bold.
+
+******************************************************************************************
+
 rs_dl 3.4.0 2025-09-09:
 
 * Button "Go!" is now default pushbutton, which means that you can simply press "Enter" to start downloading.

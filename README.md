@@ -5,8 +5,6 @@
 * Perform any number of simultaneous downloads.
 * <img width="714" height="652" alt="image" src="https://github.com/user-attachments/assets/31c363c6-cde8-4a63-84e2-037b7d75200d" />
 
-* <img width="714" height="652" alt="image" src="https://github.com/user-attachments/assets/9b72f36c-767d-45f9-8639-a88edadfa638" />
-
 Each zip file contains
 * rs_dl.exe
 * One dll.

@@ -15,7 +15,7 @@ Each zip file contains
 rs_dl 3.5.0 2026-06-10:
 
 * Display changes:
-  *  Tooltips for som econtrols.
+  *  Tooltips for some controls.
   *  Currently active profile highlighted.
   *  Butto "Go!" is bold.
 

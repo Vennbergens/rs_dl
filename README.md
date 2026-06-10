@@ -18,7 +18,7 @@ rs_dl 3.5.0 2026-06-10:
   *  Tooltips for some controls.
   *  Currently active profile highlighted.
   *  Butto "Go!" is bold.
-  *  
+   
     [rs_dl.zip](https://github.com/user-attachments/files/28812323/rs_dl.zip)
 
 

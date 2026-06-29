@@ -3,12 +3,24 @@
 * Feed svtplay-dl with any parameters.
 
 * Perform any number of simultaneous downloads.
-* <img width="714" height="652" alt="image" src="https://github.com/user-attachments/assets/31c363c6-cde8-4a63-84e2-037b7d75200d" />
+* <img width="667" height="632" alt="image" src="https://github.com/user-attachments/assets/5fd606e7-f641-463e-b7af-1247b9ed6faf" />
 
 Each zip file contains
 * rs_dl.exe
 * One dll.
 * Documentation in pdf format.
+
+******************************************************************************************
+
+rs_dl 4.0.0 2026-06-29:
+
+* Menu added to program.
+* Checkbox "Video" removed. This checkbox is not necessary as default is always to download video. If you DON'T want video, use parameter "--force-subtotle".
+* Tooltip for most controls.
+* Tooltip can be switched on/off from the menu. Default is on.
+
+[rs_dl.zip](https://github.com/user-attachments/files/29466850/rs_dl.zip)
+
 
 ******************************************************************************************
 

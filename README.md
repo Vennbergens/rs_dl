@@ -15,7 +15,7 @@ Each zip file contains
 rs_dl 4.0.0 2026-06-29:
 
 * Menu added to program.
-* Checkbox "Video" removed. This checkbox is not necessary as default is always to download video. If you DON'T want video, use parameter "--force-subtotle".
+* Checkbox "Video" removed. This checkbox is not necessary as default is always to download video. If you DON'T want video, use parameter "--force-subtitle".
 * Tooltip for most controls.
 * Tooltip can be switched on/off from the menu. Default is on.
 

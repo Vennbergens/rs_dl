@@ -3,12 +3,19 @@
 * Feed svtplay-dl with any parameters.
 
 * Perform any number of simultaneous downloads.
-* <img width="667" height="632" alt="image" src="https://github.com/user-attachments/assets/5fd606e7-f641-463e-b7af-1247b9ed6faf" />
+* <img width="714" height="677" alt="image" src="https://github.com/user-attachments/assets/5bfc57c4-f892-4fa4-ab97-09d90ed69bfd" />
 
 Each zip file contains
 * rs_dl.exe
 * One dll.
 * Documentation in pdf format.
+******************************************************************************************
+
+rs_dl 4.0.1 2026-07-07:
+
+* Menu item "Profile" can be used to show profiles or to select what profile to activate.
+
+[rs_dl.zip](https://github.com/user-attachments/files/29751463/rs_dl.zip)
 
 ******************************************************************************************
 

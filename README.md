@@ -11,6 +11,14 @@ Each zip file contains
 * Documentation in pdf format.
 ******************************************************************************************
 
+rs_dl 4.0.2 2026-09-11:
+
+* Display program name, version and width (32/64) in cmd window.
+
+[rs_dl.zip](https://github.com/user-attachments/files/32127739/rs_dl.zip)
+
+******************************************************************************************
+
 rs_dl 4.0.1 2026-07-07:
 
 * Menu item "Profile" can be used to show profiles or to select what profile to activate.

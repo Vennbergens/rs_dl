@@ -9,6 +9,15 @@ Each zip file contains
 * rs_dl.exe
 * One dll.
 * Documentation in pdf format.
+
+******************************************************************************************
+
+rs_dl 4.0.3 2026-10-20:
+
+* Check program version against Github repository.
+
+[rs_dl.zip](https://github.com/user-attachments/files/33732730/rs_dl.zip)
+
 ******************************************************************************************
 
 rs_dl 4.0.2 2026-09-11:

@@ -3,7 +3,7 @@
 * Feed svtplay-dl with any parameters.
 
 * Perform any number of simultaneous downloads.
-* <img width="714" height="677" alt="image" src="https://github.com/user-attachments/assets/5bfc57c4-f892-4fa4-ab97-09d90ed69bfd" />
+<img width="714" height="677" alt="image" src="https://github.com/user-attachments/assets/3c31a3ed-1759-4585-b260-4f58efb14952" />
 
 Each zip file contains
 * rs_dl.exe

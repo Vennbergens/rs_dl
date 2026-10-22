@@ -13,19 +13,11 @@ Each zip file contains
 
 ******************************************************************************************
 
-rs_dl 4.0.4 2026-10-21:
-
-* Fixed some synchronisation problems in the previous version.
-
-[rs_dl.zip](https://github.com/user-attachments/files/33768697/rs_dl.zip)
-
-******************************************************************************************
-
-rs_dl 4.0.3 2026-10-20:
+rs_dl 4.1.0 2026-10-22:
 
 * Check program version against Github repository.
 
-[rs_dl.zip](https://github.com/user-attachments/files/33732730/rs_dl.zip)
+[rs_dl.zip](https://github.com/user-attachments/files/33799922/rs_dl.zip)
 
 ******************************************************************************************
 
